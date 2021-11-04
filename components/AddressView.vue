@@ -52,6 +52,11 @@ export default {
     font-size: 100%;
 }
 
+h2{
+    font-size: 100%;
+}
+
+
 a{
      text-decoration: none;
 }

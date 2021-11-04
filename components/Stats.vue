@@ -56,5 +56,8 @@ export default {
 </script>
 
 <style>
+.card{
+    background-color: #1c1c1e;
+}
 
 </style>
